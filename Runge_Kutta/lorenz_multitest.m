@@ -30,7 +30,7 @@ yparticles = yIC;
 % we use nested for loops to step through every single IC in the cube
 % one at a time...
 for step=1:L
-    time = step*dt   
+    time = step*dt;   
     for i=1:length(xvec)
         for j=1:length(yvec)
             for k=1:length(zvec)

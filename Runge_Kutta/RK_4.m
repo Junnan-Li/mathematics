@@ -1,5 +1,7 @@
 function yout =  RK_4(fun,dt,t0,y0)
 
+% y0 could be vector or matrix (multi-points)
+
 f1 = fun(t0,y0);
 % size(f1)
 % size(y0)
