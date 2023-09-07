@@ -1,0 +1,5 @@
+OptimizationMode: 1
+StartTime: 2023-01-26 19:41:57
+EndTime: 2023-01-26 19:41:57
+DurationCPUTime: 0.06s
+Computational Cost: add. (6->6), mult. (16->12), div. (0->0), fcn. (29->6), ass. (0->19)

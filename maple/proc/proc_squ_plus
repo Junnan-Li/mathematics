@@ -1,0 +1,5 @@
+squ_plus := proc(x, y) 
+local ReturnValue:
+ReturnValue := x^2 + y^2:
+return ReturnValue:
+end proc:

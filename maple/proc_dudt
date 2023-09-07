@@ -1,0 +1,5 @@
+dudt := proc(u,t, a, b, c) 
+  local ReturnValue:
+  ReturnValue := u^2 + t + a^2 * b + 4*c:
+  return ReturnValue:
+end proc:
